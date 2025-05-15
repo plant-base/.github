@@ -8,17 +8,15 @@ Our growing database contains detailed information sheets, photos and care instr
 
 We strongly believe that plant care information should be **free**, and **rooted in science**.</p>
 
+You can access plantbase on [https://houseplantguide.org/](https://houseplantguide.org/)
+
 ![image](https://github.com/user-attachments/assets/54a62b51-a4f7-44d6-91e8-887e2119a478)
 
-## Goal
-
-The goal of plantbase is to 
-
-## Data
+## How to access the data
 
 All plant data (species, genera, familiae) can be found in the plant-base repository within the /data folder. Each species/genus/family is stored as a `markdown` file.
 
-## Contribute
+## How to contribute
 
 To contribute, you can create a fork of the plant-base repository and create a PR (pull request) with your changes to the plant data.
 
